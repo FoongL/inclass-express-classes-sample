@@ -1,0 +1,1 @@
+Please remane .env.samsple to .env
